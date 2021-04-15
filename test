@@ -1,0 +1,6 @@
+a = {:a => 5}
+b = {:b => 10}
+
+c = a.merge(b)
+
+print c
